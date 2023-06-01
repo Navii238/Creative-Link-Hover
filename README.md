@@ -1,6 +1,6 @@
 # Creative-Link-Hower
 
-With codePen Three Fancy Link Effects
+With codePen Three Fancy Links Effect
 
 For Output Visit Website -: https://navii238.github.io/Creative-Link-Hower/
 
